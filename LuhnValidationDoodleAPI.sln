@@ -11,11 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuhnValidationDoodle.Domain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuhnValidationTests", "LuhnValidationTests\LuhnValidationTests.csproj", "{6F19139E-3A17-4007-9B6B-5EB400628241}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{52B58675-8AE7-4ECD-A28D-82AFF150E7CE}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\Take a credit card number and perform luhn validation.pdf = ..\..\..\Desktop\Take a credit card number and perform luhn validation.pdf
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
